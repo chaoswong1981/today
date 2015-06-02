@@ -1,0 +1,8 @@
+.margin500 {
+    width: 500px;
+    margin: auto;
+}
+.title {
+    border-bottom: 1px solid;
+    font-weight: bold;
+}
